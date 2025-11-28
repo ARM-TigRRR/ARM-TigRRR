@@ -21,7 +21,7 @@ I keep up with new technologies and regularly study approaches that strengthen m
 * 🌍  I'm based in Yeravan, Armenia
 * ✉️  You can contact me at [sevaqart@gmail.com](mailto:sevaqart@gmail.com)
 
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">MORE...</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
