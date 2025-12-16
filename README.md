@@ -25,13 +25,13 @@ I keep up with new technologies and regularly study approaches that strengthen m
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://github.com/https://github.com/ARM-TigRRR" target="_blank">
+<a href="https://github.com/ARM-TigRRR" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 7px;" />
 </a>
-<a href="https://instagram.com/https://www.instagram.com/t__ghazaryan_/?hl=ru" target="_blank">
+<a href="https://www.instagram.com/t__ghazaryan_/?hl=ru" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 7px;" />
 </a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/tigran-ghazaryan-808a50243/" target="_blank">
+<a href="https://www.linkedin.com/in/tigran-ghazaryan-808a50243/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 7px;" />
 </a> 
 
